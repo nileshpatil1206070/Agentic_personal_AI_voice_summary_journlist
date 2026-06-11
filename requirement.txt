@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+pydantic
+
+# AI + APIs
+openai
+groq
+elevenlabs
+
+# If your utils use web scraping / search
+exa-py
+
+# Audio handling (optional but commonly needed)
+pydub
